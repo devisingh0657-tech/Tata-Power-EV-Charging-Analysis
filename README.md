@@ -1,4 +1,4 @@
-# Tata Power EV Charging Analytics
+# Tata Power EV Charging Analysis
 
 WS Cube Tech milestone project (Cohort 136) by Devi Singh.
 Practice project on a Tata Power-style EV charging dataset. Not an official Tata Power work.
